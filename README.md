@@ -13,3 +13,8 @@ Contiene el material estratégico preparado para el proceso de adquisición corp
 
 3. **[STARPAGO_SCREENING_RESPONSE.md](./STARPAGO_SCREENING_RESPONSE.md)**
    Respuestas redactadas en inglés para el primer filtro técnico, enlazando la experiencia corporativa y consultoría Cross-Border (Perú, Argentina, Colombia).
+
+## Bases de Datos y Evidencia (Carpeta data/)
+- **Datos_Adquisicion_21_22.xlsx** & **Deals para rentabilidad.csv**: Cruce de datos que valida los 55.6 Millones en volumen procesado total (90% Outbound).
+- **Starpago_Mapa_Competitivo.csv**: La inteligencia extraída del Google Drive sobre el ecosistema de casinos y competidores LATAM.
+- **Directorio_Amexvid.csv**: Padrón institucional para targetear e-sports.
