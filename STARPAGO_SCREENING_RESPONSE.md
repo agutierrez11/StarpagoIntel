@@ -10,7 +10,7 @@ After managing alliances that drove 90% of volume at Fiserv, I am looking to ret
 I am available to start [Immediately / within 2 weeks of an accepted offer].
 
 **4- Your current English level and whether you can independently conduct meetings, presentations, and negotiations in English.**
-I am fully fluent (Advanced/C1 level). I am completely comfortable and capable of independently conducting C-level meetings, technical API presentations, and complex commercial negotiations in English.
+My English level is [FILL IN YOUR ACTUAL LEVEL, e.g. B2/Advanced/C1]. I am comfortable conducting meetings, technical presentations, and commercial negotiations in English.
 
 **5- The merchant relationships or book of business you could potentially activate in a new role.**
 I have a validated pipeline of high-ticket leads and strategic alliances. Specifically for Starpago’s target markets, my strategy focuses on activating leads directly from institutional networks I have mapped out, such as **AIEJA** (Mexico) and **IBJR / ANJL** (Brazil). My immediate target pipeline for iGaming includes operators like Winner, Brazino777, and Betway, which I plan to scale by offering stable local payouts (SPEI/PIX). Furthermore, I have an audited track record in the High Potential segment: generating **$69.4M MXN in total TPV YTD** (more than double the Top 10 company average) with an average net ticket size per merchant of **$2.39M MXN** (over twice the Top 10 benchmark), closing Inbound opportunities in just 15.8 days and Outbound in 36.1 days.

@@ -90,7 +90,7 @@
 * "Mi objetivo es escalar el volumen usando exactamente la misma infraestructura subyacente (Payouts, APMs locales, Liquidación FX) para polinizar clientes entre verticales sin añadir peso operativo."
 
 **[ACTION - El plan medible a 90 y 180 días]**
-* **Día 1 a 90 (Land - Las Balas Listas):** "No vengo a ver dónde están los clientes, ya los tengo mapeados. Mi enfoque 100% agresivo es traer volumen puro de iGaming (Tier 1). ¿De dónde saco los leads? 1) Del padrón de miembros de **AIEJA** (México) y **Fecoljuegos** (Colombia). 2) De mi pipeline inmediato validado: **Winner, Brazino777, Betway**. Voy directo a ellos para estabilizar el flujo de caja procesando con SPEI/PSE/PIX."
+* **Día 1 a 90 (Land - Las Balas Listas):** "No vengo a ver dónde están los clientes, ya los tengo mapeados. Mi enfoque 100% agresivo es traer volumen puro de iGaming (Tier 1). ¿De dónde saco los leads? 1) Del padrón de miembros de **AIEJA** (México) y **Fecoljuegos** (Colombia). 2) De target accounts de Tier 1 ya identificadas: **Winner, Brazino777, Betway** — operadores con presencia LATAM que demandan payouts locales estables. Voy directo a ellos para estabilizar el flujo de caja procesando con SPEI/PSE/PIX."
 * **Día 90 a 180 (Expand):** "Una vez estabilizado, uso el caso de éxito de payouts de iGaming para venderle a las **Ligas de E-Sports (LVP, KRÜ, Infinity)**. Les ofrezco cobrar en efectivo (OXXO/Efecty) a sus fans no bancarizados y liquidar los premios transfronterizos a sus jugadores con la misma tubería que ya armamos para los casinos."
 * **Auditoría Legal:** "Todo esto operando con pipelines de KYC/AML completamente aislados desde el día 1, para proteger las cuentas bancarias de Starpago del riesgo regulatorio cruzado (De-risking)."
 
@@ -158,7 +158,7 @@ timeline
 
 1. **Fase 1: Días 1 a 30 (Quick-Wins & Lead Mining Institucional)**
    * **Objetivo:** No improvisar. Mapear y activar el padrón de **AIEJA** (México) e **IBJR/ANJL** (Brasil).
-   * **Acción:** Contactar directamente a los VP de Pagos de operadores Tier 1 locales (Winner, Brazino777, Betway) ofreciendo payouts instantáneos vía PIX/SPEI.
+   * **Acción:** Contactar directamente a los VP de Pagos de operadores Tier 1 locales (Winner, Brazino777, Betway — identificados como target accounts clave del segmento iGaming en LATAM) ofreciendo payouts instantáneos vía PIX/SPEI.
 
 2. **Fase 2: Días 30 a 60 (Alianzas de Co-Selling & RegTech)**
    * **Objetivo:** Destrabar cuellos de botella de onboarding y acelerar la captación Enterprise.

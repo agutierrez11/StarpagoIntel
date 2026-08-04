@@ -71,8 +71,8 @@ Cero teoría. Esta es la ejecución comercial a nivel de cancha:
     *   🇲🇽 **México:** AIEJA (Asociación de Permisionarios, Operadores y Proveedores de la Industria del Entretenimiento)
     *   🇧🇷 **Brasil:** IBJR (Instituto Brasileiro de Jogo Responsável) y ANJL (Associação Nacional de Jogos e Loterias)
     *   🇨🇴 **Colombia:** Fecoljuegos y Cornazar
-    *   🇵🇪 **Perú:** SONAJA (Sociedad Nacional de Juegos de Azar)
-    *   🇨🇱 **Chile:** AGR (Agrupación de iGaming Responsable)
+    *   🇵🇪 **Perú:** SONAJA (Sociedad Nacional de Juegos de Azar) — <!-- PENDIENTE: verificar nombre y acrónimo exacto -->
+    *   🇨🇱 **Chile:** AGR (Agrupación de iGaming Responsable) — <!-- PENDIENTE: verificar existencia oficial -->
 *   **Propuesta de Valor:** Estabilizar el flujo de caja. Si el operador sufre de contracargos o lentitud, entramos directo procesando con **SPEI (MX), PSE (CO) y PIX (BR)**. 
 
 ### Fase 2: Expand - Sinergia de Infraestructura (Día 90 a 180)
