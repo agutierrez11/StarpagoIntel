@@ -38,11 +38,13 @@
 ## 🌐 4. ECOSISTEMA DE AFILIACIÓN & EVENTOS C-LEVEL 2026
 - **Directorios & Redes:** AffPapa, Yogonet iGaming Center, Afiliados LATAM (BiS), Gambling Affiliation, Alfaleads, Huffson Group, Afiliapub, PIN-UP Partners, AskGamblers, Income Access, Affilka, Affise.
 - **Eventos Clave en México y LATAM:**
+  - **Token Americas (Flagship):** 12–13 Agosto 2026 (CDMX, Centro Asturiano — Stablecoins, Dólares Digitales y FX).
+  - **SiGMA North America:** 1–3 Septiembre 2026 (CDMX, México).
+  - **GAT Expo Bogotá:** 15 Octubre 2026 (Bogotá, Colombia).
+  - **G&M Events México:** 4–5 Noviembre 2026 (CDMX - Oficinas Google/Oracle).
   - **AffPapa Conference Cancún & Awards:** 23–25 Noviembre 2026 (Cancún, México).
   - **NEXT Elite Retreat: Latin America:** 24–26 Noviembre 2026 (Cancún, México).
-  - **G&M Events México:** 4–5 Noviembre 2026 (CDMX - Oficinas Google/Oracle).
-  - **GAT Expo Bogotá:** 15 Octubre 2026 (Bogotá, Colombia).
-  - **SiGMA North America:** 1–3 Septiembre 2026 (CDMX, México).
+  - **Tulum Innovation Fest:** 9–12 Diciembre 2026 (Tulum, Q. Roo — Arena Ikal / Cripto & New Economy).
 
 ---
 

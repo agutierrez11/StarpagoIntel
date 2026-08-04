@@ -312,6 +312,7 @@ Estos casinos tienen pain points **identificados con datos reales de casino.org*
 
 | Fecha | Evento | Ubicación | Enfoque Estratégico Starpago |
 |---|---|---|---|
+| **12-13 Ago 2026** | **Token Americas (Flagship)** | CDMX (Centro Asturiano) | Dólares digitales, Stablecoins (USDT/USDC), tokenización y pagos transfronterizos. |
 | **13 Ago 2026** | **G&M Events Brazil** | São Paulo, Brasil | Negociación con operadores de apuestas (.bet.br) y prueba de PIX instantáneo. |
 | **24-25 Ago 2026** | **CGS Recife** | Recife, Brasil | Red de afiliados y proveedores B2B locales en el mercado brasileño. |
 | **1-3 Sep 2026** | **SiGMA North America** | CDMX, México | Evento insignia en México: pitch presencial a casinos Tier 1 (Winner, Brazino777). |
@@ -320,6 +321,7 @@ Estos casinos tienen pain points **identificados con datos reales de casino.org*
 | **4-5 Nov 2026** | **G&M Events Mexico** | CDMX (Oficinas Google/Oracle) | Encuentro C-Level con líderes de tecnología y apuestas en México. |
 | **23-25 Nov 2026** | **AffPapa Conference Cancún** | Cancún, México | Cierre de acuerdos de payouts masivos con redes globales de afiliados y casinos. |
 | **25 Nov 2026** | **AffPapa iGaming Awards LATAM** | Cancún, México | Gala C-Level: consolidación institucional y networking de alto nivel. |
+| **9-12 Dic 2026** | **Tulum Innovation Fest** | Tulum, Q. Roo (Ikal Arena) | Cierre de año local en territorio propio (Tulum/Cancún) con founders de Crypto, Web3 y New Economy. |
 
 ---
 

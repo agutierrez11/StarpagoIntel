@@ -173,6 +173,10 @@ Esta sección mapea los directorios globales y regionales de afiliación e infra
     *   *Enlace web oficial:* [oddschecker.com](https://www.oddschecker.com/)
 
 ### 🎪 2. Organizaciones de Eventos & Cumbres de Networking C-Level
+*   **Token Americas (12-13 Ago 2026):** Cumbre C-Level en CDMX (Centro Asturiano) enfocada en la infraestructura de dólares digitales, Stablecoins (USDT/USDC), tokenización y pagos transfronterizos.
+    *   *Enlace web oficial:* [tokenamericas.com](https://www.tokenamericas.com/es/)
+*   **Tulum Innovation Fest (9-12 Dic 2026):** Evento de cierre de año en Tulum/Cancún (Arena Ikal) que reúne a la comunidad de activos digitales, emprendedores Web3, New Economy e inversionistas.
+    *   *Enlace web oficial:* [tuluminnovationfest.com](https://www.tuluminnovationfest.com/)
 *   **NEXT Elite Retreat Cancún (24-26 Nov 2026):** Cumbre C-Level hiper-exclusiva en Cancún organizada junto a NEXT.io para 100 líderes y CEOs de iGaming en LATAM.
 *   **AffPapa Conference Cancún (23-25 Nov 2026):** Evento insignia de afiliación iGaming en Cancún con más de 500 delegados y entregas de premios (AffPapa iGaming Awards LATAM).
 *   **SiGMA World / SiGMA Americas:** El festival y cumbre mundial de iGaming más grande de la industria, con ediciones anuales en Brasil y México.
