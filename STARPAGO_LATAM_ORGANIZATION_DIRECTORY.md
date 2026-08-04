@@ -152,8 +152,13 @@
 Esta sección mapea los directorios globales y regionales de afiliación e infraestructura tecnológica que operan en Latinoamérica, complementarios a AffPapa, para prospección inversa y alianzas de payouts:
 
 ### 🌐 1. Directorios & Redes de Afiliados (B2B Directory & Matching)
-*   **Gambling Affiliation:** Una de las redes de afiliación de iGaming más antiguas y consolidadas (desde 2005), con fuerte cobertura de más de 350 campañas activas en México, Brasil, Colombia y Perú.
+*   **Yogonet iGaming Center LATAM:** El gran directorio pionero centrado en América Latina que centraliza listados de proveedores de pago, plataformas, operadores y servicios clave del sector.
+    *   *Enlace web oficial:* [yogonet.com](https://www.yogonet.com/)
+*   **Afiliados Latam:** Iniciativa nacida bajo el marco del Brazilian iGaming Summit (BiS / SiGMA) dedicada a conectar empresas de afiliación, medios digitales y operadores en LATAM.
+*   **Gambling Affiliation:** Red veterana (desde 2005) con cobertura de más de 350 campañas activas de casino y apuestas en México, Brasil, Colombia y Perú.
     *   *Enlace web oficial:* [gambling-affiliation.com](https://www.gambling-affiliation.com/)
+*   **Alfaleads:** Red internacional especializada en iGaming agresiva en Brasil, México y Perú, ofreciendo soporte para apps nativas y asesoría legal local.
+*   **Huffson Group:** Red internacional de CPA con acuerdos exclusivos de iGaming y sportsbooks para mercados emergentes de Latinoamérica.
 *   **Afiliapub:** Red de afiliación iGaming enfocada 100% en el mercado de casinos online y casas de apuestas deportivas en Latinoamérica.
     *   *Enlace web oficial:* [afiliapub.com](https://www.afiliapub.com/)
 *   **PIN-UP Partners:** Red de afiliados de iGaming con volumen masivo en mercados emergentes de LATAM (Brasil, México, Perú, Colombia) orientada a tráfico de conversión rápida.
@@ -168,6 +173,8 @@ Esta sección mapea los directorios globales y regionales de afiliación e infra
     *   *Enlace web oficial:* [oddschecker.com](https://www.oddschecker.com/)
 
 ### 🎪 2. Organizaciones de Eventos & Cumbres de Networking C-Level
+*   **NEXT Elite Retreat Cancún (24-26 Nov 2026):** Cumbre C-Level hiper-exclusiva en Cancún organizada junto a NEXT.io para 100 líderes y CEOs de iGaming en LATAM.
+*   **AffPapa Conference Cancún (23-25 Nov 2026):** Evento insignia de afiliación iGaming en Cancún con más de 500 delegados y entregas de premios (AffPapa iGaming Awards LATAM).
 *   **SiGMA World / SiGMA Americas:** El festival y cumbre mundial de iGaming más grande de la industria, con ediciones anuales en Brasil y México.
     *   *Enlace web oficial:* [sigma.world](https://sigma.world/)
 *   **GAT Events (Gaming & Technology Expo):** Empresa organizadora de cumbres de juego y tecnología en Colombia (Bogotá y Cartagena), República Dominicana y el Caribe.
@@ -179,5 +186,6 @@ Esta sección mapea los directorios globales y regionales de afiliación e infra
 *   **Affilka (by SOFTSWISS):** Motor de gestión de programas de afiliados con módulos avanzados para configurar comisiones RevShare, CPA e Híbridas.
 *   **Affise:** Software SaaS de atribución de rendimiento y seguimiento de FTDs utilizado por agencias de iGaming.
 *   **SocialPro & Wintown (México/LATAM):** Agencias especializadas en la conexión de operadores regulados (SEGOB en MX) con influencers y redes de afiliados locales.
+
 
 
