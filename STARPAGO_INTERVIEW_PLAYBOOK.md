@@ -41,15 +41,17 @@
 *   **Unfair Advantage 1:** $2.39M MXN avg ticket at Clip (Key Account targeting).
 *   **Unfair Advantage 2:** Co-founder of 500-member LATAM Payments Community (warm intros).
 *   **Unfair Advantage 3:** Connections with high-risk builders (Dynerox, SulPayments) for market intelligence.
+*   **Unfair Advantage 4:** Direct WhatsApp access to event organizers (Ron Oliver & CEO Raúl Touza David of Synergy Nexus / Tulum Innovation Fest) for closed-door C-level access.
 
 ### 🌟 STAR STRUCTURE
 *   **Situation:** Transitioning from domestic acquiring to international high-risk processing.
 *   **Task:** Building a high-volume merchant pipeline from Day 1 without relying on a legacy portfolio.
-*   **Action:** Leverage 3 strategic assets:
+*   **Action:** Leverage 4 strategic assets:
     1.  Targeting methodology that delivered $2.39M avg net ticket per client at Clip.
     2.  Warm introductions via my 500-member LATAM Payments Community.
     3.  Real-time market intelligence from contacts at high-risk builders (Dynerox, SulPayments).
-*   **Result:** High-velocity pipeline activation focused on real high-volume accounts.
+    4.  Direct access to top event organizers (Ron Oliver & CEO Raúl Touza David of Synergy Nexus / Tulum Innovation Fest) to bypass gatekeepers and place Starpago in front of CXO decision-makers.
+*   **Result:** High-velocity pipeline activation focused on real high-volume accounts and C-level access.
 
 ---
 

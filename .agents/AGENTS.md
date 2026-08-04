@@ -44,7 +44,7 @@
   - **G&M Events México:** 4–5 Noviembre 2026 (CDMX - Oficinas Google/Oracle).
   - **AffPapa Conference Cancún & Awards:** 23–25 Noviembre 2026 (Cancún, México).
   - **NEXT Elite Retreat: Latin America:** 24–26 Noviembre 2026 (Cancún, México).
-  - **Tulum Innovation Fest:** 9–12 Diciembre 2026 (Tulum, Q. Roo — Arena Ikal / Cripto & New Economy).
+  - **Tulum Innovation Fest / Synergy Nexus:** 9–12 Diciembre 2026 (Tulum, Q. Roo — Arena Ikal / Cripto & New Economy). *Contacto directo vía WhatsApp con el organizador Ron Oliver y el CEO Raúl Touza David (Synergy Nexus) para cumbres cerradas C-Level.*
 
 ---
 
