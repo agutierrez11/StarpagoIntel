@@ -144,3 +144,31 @@
 ### 🛍️ 4. E-commerce Enterprise & Retail
 *   **Asociación Gremial:** **CCS** (Cámara de Comercio de Santiago - Comité de Comercio Electrónico). Lidera las transacciones e-commerce enterprise transfronterizas en Chile.
     *   *Enlace web oficial:* [ccs.cl](https://www.ccs.cl/)
+
+---
+
+## 🌐 Directorios de Afiliados, Redes & Hubs de Networking en LATAM (Ecosistema AffPapa)
+
+Esta sección mapea los directorios globales y regionales de afiliación e infraestructura tecnológica que operan en Latinoamérica, complementarios a AffPapa, para prospección inversa y alianzas de payouts:
+
+### 🌐 1. Directorios & Redes de Afiliados (B2B Directory & Matching)
+*   **Gambling Affiliation:** Una de las redes de afiliación de iGaming más antiguas y consolidadas (desde 2005), con fuerte cobertura de campañas activas en México, Brasil, Colombia y Perú.
+    *   *Enlace web oficial:* [gambling-affiliation.com](https://www.gambling-affiliation.com/)
+*   **Aff.studio:** Directorio global extenso con más de 1,300 programas de afiliados e iGaming operators, comparativas de comisiones (CPA/RevShare), licencias y reviews.
+    *   *Enlace web oficial:* [aff.studio](https://aff.studio/)
+*   **Income Access (Paysafe Group):** Red e infraestructura tecnológica de atribución multicanal para programas de afiliados en casino, apuestas deportivas y póker a nivel global y LATAM.
+    *   *Enlace web oficial:* [incomeaccess.com](https://www.incomeaccess.com/)
+
+### 🎪 2. Organizaciones de Eventos & Cumbres de Networking C-Level
+*   **SiGMA World / SiGMA Americas:** El festival y cumbre mundial de iGaming más grande de la industria, con ediciones anuales en Brasil y México.
+    *   *Enlace web oficial:* [sigma.world](https://sigma.world/)
+*   **GAT Events (Gaming & Technology Expo):** Empresa organizadora de cumbres de juego y tecnología en Colombia (Bogotá y Cartagena), República Dominicana y el Caribe.
+    *   *Enlace web oficial:* [gatexpo.net](https://gatexpo.net/)
+*   **G&M News Events:** Plataforma de contenidos y eventos boutique C-Level en sedes corporativas (como las oficinas de Google y Oracle en CDMX, São Paulo y Rosario).
+    *   *Enlace web oficial:* [gmbus.com](https://gmbus.com/)
+
+### 🛠️ 3. Plataformas Tecnológicas & Agencias Locales de Afiliación LATAM
+*   **Affilka (by SOFTSWISS):** Motor de gestión de programas de afiliados con módulos avanzados para configurar comisiones RevShare, CPA e Híbridas.
+*   **Affise:** Software SaaS de atribución de rendimiento y seguimiento de FTDs utilizado por agencias de iGaming.
+*   **SocialPro & Wintown (México/LATAM):** Agencias especializadas en la conexión de operadores regulados (SEGOB en MX) con influencers y redes de afiliados locales.
+

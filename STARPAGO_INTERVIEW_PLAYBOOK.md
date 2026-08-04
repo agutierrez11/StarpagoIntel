@@ -121,6 +121,8 @@
 | :--- | :--- | :--- |
 | **Unlimit** | 🔴 Competencia Directa (Cross-Border) | Desbancarlos ofreciendo liquidación local e instantánea (PIX/SPEI) y payouts sin fricción de FX. |
 | **Paycash / Paynau** | 🟡 Competencia / Aliado (Vouchers) | Integración como riel de cobro en efectivo (OXXO/Efecty) para usuarios no bancarizados. |
+| **AffPapa / Aff.studio** | 🟢 Co-Selling / Hub de Afiliación | Prospección inversa sobre operadores con mal payout de comisiones; pitch de API de settlement masivo. |
+| **Gambling Affiliation** | 🟢 Red de Afiliados LATAM | Alianza para conectar a sus afiliados con operadores procesados por Starpago con payouts locales T+0. |
 | **Riskified** | 🟢 Co-Selling (Anti-Fraude Guarantee) | **Referral cruzado:** E-commerce enterprise protegidos por Riskified procesan con Starpago en LATAM. |
 | **Sumsub** | 🟢 Co-Selling / RegTech (iGaming/Crypto) | Integración KYC/AML agilizada para acelerar el onboarding de casinos sin riesgo legal. |
 | **Truora** | 🟢 Tech Partner (KYC & WhatsApp Auth) | Verificación de identidad sin fricción para el mercado de México y Colombia. |
