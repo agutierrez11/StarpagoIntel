@@ -171,3 +171,17 @@ timeline
 4. **Fase 4: Días 90 a 180 (Land & Expand a Nuevas Verticales)**
    * **Objetivo:** Bajar el CAC vendiendo la misma infraestructura a otros océanos.
    * **Acción:** Reutilizar los rieles de payouts de iGaming para venderle a **Ligas de E-Sports (LVP, KRÜ)** y cobros en efectivo con **Paycash (OXXO/Efecty)**, expandiendo hacia Perú, Colombia y Argentina.
+
+---
+
+## 10. Peer-to-Peer Interview Tactics (Entrevista con un BDM Actual)
+*Dado que tu entrevistador es un Business Development Manager activo en Starpago, la dinámica NO es con Recursos Humanos. Es una conversación de colega a colega (Peer-to-Peer).*
+
+### 🎯 Principios de Conexión con un BDM Evaluador:
+1. **Cero Teoría, 100% Realidad de Trinchera:** El BDM sabe exactamente lo difícil que es prospeccionar en frío, destrabar integraciones API y negociar contratos con Compliance. Háblale en su idioma: *conversion rates, onboarding friction, chargeback caps, FX settlement.*
+2. **Respeto a la Estructura de Brasil:** Aclara desde el inicio que reconoces a **Brasil como un mercado 100% independiente** (con su propio BDM dedicado), mientras tú lideras la expansión de **Hispanoamérica (México, Colombia, Argentina, Perú, Chile)**, ofreciendo sinergia de payouts cross-border cuando un merchant opere en ambas regiones.
+3. **No vienes a competir por sus cuentas, vienes a sumar:** Posiciona tus alianzas (Riskified, Sumsub, Truora) como herramientas que benefician a todo el equipo comercial para acelerar cierres corporativos.
+
+### 💬 Frases Clave para Sintonizar con el BDM:
+* *"Como BDM entiendes perfecto el dolor de tener un deal enterprise cerrado comercialmente pero atorado 3 semanas en el comité de Riesgos por el KYC. Por eso armé relaciones con partners como Sumsub y Truora para acortar ese ciclo."*
+* *"Sé que Brasil se maneja de forma aislada por el tema regulatorio de PIX y su propio equipo. Mi enfoque es dominar Hispanoamérica —empezando por el padrón de AIEJA en México y Fecoljuegos en Colombia— y servir de puente si un cliente hispano necesita liquidez cross-border hacia Brasil."*
