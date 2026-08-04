@@ -18,7 +18,10 @@ Contiene el material estratégico preparado para el proceso de adquisición corp
 5. **[starpago_latam_entry_strategy.md](./starpago_latam_entry_strategy.md)**
    Mapa competitivo dividiendo Brasil (Independiente) e Hispanoamérica. Mapeo de asociaciones (AIEJA, IBJR) y verticales (iGaming, E-commerce, Enterprise).
 
-6. **[STARPAGO_SCREENING_RESPONSE.md](./STARPAGO_SCREENING_RESPONSE.md)**
+6. **[STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md](./STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md)**
+   El directorio verificado de reguladores y gremios sectoriales de iGaming, Deportes Electrónicos y Videojuegos para México, Brasil, Colombia, Perú, Argentina y Chile.
+
+7. **[STARPAGO_SCREENING_RESPONSE.md](./STARPAGO_SCREENING_RESPONSE.md)**
    Respuestas redactadas en inglés para el filtro técnico inicial.
 
 ## Bases de Datos y Evidencia (Carpeta data/)
