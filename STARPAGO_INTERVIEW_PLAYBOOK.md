@@ -143,13 +143,13 @@ timeline
     section 30-60 Días : Cierre Local & Alianzas
         : Activación de Payouts locales (SPEI / PIX)
         : Acuerdos Co-Selling con Riskified & Sumsub
-        : Prospección en SBC Summit & SiGMA
+        : Prospección en G&M Events Brazil & CGS Recife (Agosto)
     section 60-90 Días : Escalamiento High-Risk
         : Cierre de primeros 5 casinos iGaming
-        : Asistencia a Incocrédito (CO) & FEBRABAN (BR)
-        : Estabilización de flujo de caja Q1
+        : Asistencia a SiGMA North America (CDMX - Septiembre)
+        : Asistencia a G&M Events Argentina (Rosario - Septiembre)
     section 90-180 Días : Land & Expand
-        : Polinización a E-Sports (LVP, KRÜ, Infinity)
+        : Polinización a E-Sports & AffPapa Conference Cancún (Noviembre)
         : Rieles de efectivo vía Paycash (OXXO/Efecty)
         : Cross-border expansion Peru/Colombia/Argentina
 ```
@@ -158,19 +158,19 @@ timeline
 
 1. **Fase 1: Días 1 a 30 (Quick-Wins & Lead Mining Institucional)**
    * **Objetivo:** No improvisar. Mapear y activar el padrón de **AIEJA** (México) e **IBJR/ANJL** (Brasil).
-   * **Acción:** Contactar directamente a los VP de Pagos de operadores Tier 1 locales (Winner, Brazino777, Betway — identificados como target accounts clave del segmento iGaming en LATAM) ofreciendo payouts instantáneos vía PIX/SPEI.
+   * **Acción:** Contactar directamente a los VP de Pagos de operadores Tier 1 locales (Winner, Brazino777, Betway) ofreciendo payouts instantáneos vía PIX/SPEI.
 
-2. **Fase 2: Días 30 a 60 (Alianzas de Co-Selling & RegTech)**
-   * **Objetivo:** Destrabar cuellos de botella de onboarding y acelerar la captación Enterprise.
-   * **Acción:** Activar canal de referidos cruzados con **Riskified** (para e-commerce enterprise) e integración de onboarding agilizado KYC/AML con **Sumsub y Truora**.
+2. **Fase 2: Días 30 a 60 (Alianzas de Co-Selling & Presencia Local)**
+   * **Objetivo:** Destrabar cuellos de botella de onboarding y acelerar captación de volumen en Brasil.
+   * **Acción:** Activar canal de referidos con **Riskified** y onboarding fast-track con **Sumsub y Truora**. Mapear a tomadores de decisión locales en **G&M Events Brazil** (São Paulo) y **CGS Recife** en Agosto.
 
-3. **Fase 3: Días 60 a 90 (Presencia Presencial & Consolidación)**
-   * **Objetivo:** Cierre de contratos y posicionamiento institucional en eventos clave.
-   * **Acción:** Participación quirúrgica en **SBC Summit**, **SiGMA Americas**, **Incocrédito (Colombia)** y **FEBRABAN (Brasil)** para cerrar cuentas corporativas en persona.
+3. **Fase 3: Días 60 a 90 (Presencia Presencial & Cierre en México/Argentina)**
+   * **Objetivo:** Cierre de contratos y posicionamiento institucional físico.
+   * **Acción:** Asistencia y pitch directo en **SiGMA North America** (CDMX) y **G&M Events Argentina** (Rosario) en Septiembre para cerrar cuentas locales del pipeline Tier 1.
 
 4. **Fase 4: Días 90 a 180 (Land & Expand a Nuevas Verticales)**
    * **Objetivo:** Bajar el CAC vendiendo la misma infraestructura a otros océanos.
-   * **Acción:** Reutilizar los rieles de payouts de iGaming para venderle a **Ligas de E-Sports (LVP, KRÜ)** y cobros en efectivo con **Paycash (OXXO/Efecty)**, expandiendo hacia Perú, Colombia y Argentina.
+   * **Acción:** Reutilizar los rieles de payouts de iGaming para venderle a **Ligas de E-Sports (LVP, KRÜ)** y cobros en efectivo con **Paycash (OXXO/Efecty)**, consolidando el cierre en la **AffPapa Conference Cancún** y **iGaming Awards LATAM** en Noviembre.
 
 ---
 
