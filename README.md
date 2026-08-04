@@ -16,13 +16,20 @@
    * **Máquina de Prospección Inversa (Checkout Audit):** Flujo diario para identificar pain points en cajeros de casinos objetivo (ej. Brazino777, BC.Game, Betsson) usando datos reales extraídos de `casino.org`.
    * **Infraestructura de Payouts para Afiliados & Comisiones (CPA / RevShare):** Módulo de settlement masivo para redes de afiliados y calendario verificado de eventos C-Level LATAM 2026 (G&M Brasil, CGS Recife, SiGMA CDMX, G&M Argentina, GAT Bogotá, G&M México, AffPapa Cancún & Awards).
 
-2. **[📚 Directorio de Organizaciones de LATAM (Ampliado)](./STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md)**  
+2. **[🌎 Starpago — Inteligencia Estratégica Operativa por País (6-Market Matrix)](./STARPAGO_LATAM_COUNTRY_STRATEGY.md)**  
+   *Matriz operativa de 6 mercados (México, Brasil, Colombia, Perú, Argentina, Chile):*
+   * **Pay-In & Pay-Out Nativos:** Rieles locales por país (SPEI dinámico, PIX, PSE, Yape/Plin, CBU/CVU, Webpay/Khipu).
+   * **Pagos con Stablecoins & Conversión Fiat ↔ Crypto:** Liquidaciones en USDT/USDC y On/Off Ramp para mercados con control de cambios (Argentina) y comercios cross-border.
+   * **Smart Routing & Adquirencia Local:** Maximización de tasa de aprobación y rescate de rechazos con enrutamiento inteligente.
+   * **Estrategia Regulatoria & Tácticas de Venta:** Marcos legales por país (SEGOB, SPA/MF Ley 14.790, Coljuegos, MINCETUR, BCRA) y pitches por mercado.
+
+3. **[📚 Directorio de Organizaciones de LATAM (Ampliado)](./STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md)**  
    Directorio verificado de reguladores oficiales y gremios/asociaciones privadas por país en las 4 verticales prioritarias de Starpago (**iGaming, Videojuegos/Esports, Fintech/Crypto y E-commerce Enterprise**) cubriendo México, Brasil, Colombia, Perú, Argentina y Chile.
 
-3. **[📊 Drive Market Intelligence Report](./STARPAGO_DRIVE_MARKET_INTELLIGENCE.md)**  
+4. **[📊 Drive Market Intelligence Report](./STARPAGO_DRIVE_MARKET_INTELLIGENCE.md)**  
    Matriz estratégica con el análisis de 17 competidores clave en Hispanoamérica y Brasil (Océano Rojo vs. Océano Azul). Detalla los diferenciadores de Starpago y los ángulos de ataque directo contra adquirentes tradicionales.
 
-4. **[💸 Mapa de Rieles de Pago Locales](./STARPAGO_LATAM_PAYMENT_FLOW_MAP.md)**  
+5. **[💸 Mapa de Rieles de Pago Locales](./STARPAGO_LATAM_PAYMENT_FLOW_MAP.md)**  
    Mapeo técnico-comercial de los rieles de pago (Payment Rails) por país y el flujo de los fondos desde que el jugador deposita hasta la liquidación final del merchant.
 
 ---
