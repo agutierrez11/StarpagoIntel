@@ -174,14 +174,15 @@ timeline
 
 ---
 
-## 10. Peer-to-Peer Interview Tactics (Entrevista con un BDM Actual)
-*Dado que tu entrevistador es un Business Development Manager activo en Starpago, la dinámica NO es con Recursos Humanos. Es una conversación de colega a colega (Peer-to-Peer).*
+## 10. Dossier & Tácticas de Entrevista: Senior BDM Evaluador
+*Tu entrevistador lleva 8 meses como Senior BDM en Starpago. Su fondo NO es de vendedor tradicional, sino de **Operaciones de Escala (ex-Urbvan, ex-Oplay)**. En Starpago lidera la adquisición de canales de pago (bancos, PSPs, wallets), optimización de costos/márgenes, estrategias de ruteo redundante y monitoreo de aprobación (approval rates, uptime, latency).*
 
-### 🎯 Principios de Conexión con un BDM Evaluador:
-1. **Cero Teoría, 100% Realidad de Trinchera:** El BDM sabe exactamente lo difícil que es prospeccionar en frío, destrabar integraciones API y negociar contratos con Compliance. Háblale en su idioma: *conversion rates, onboarding friction, chargeback caps, FX settlement.*
-2. **Respeto a la Estructura de Brasil:** Aclara desde el inicio que reconoces a **Brasil como un mercado 100% independiente** (con su propio BDM dedicado), mientras tú lideras la expansión de **Hispanoamérica (México, Colombia, Argentina, Perú, Chile)**, ofreciendo sinergia de payouts cross-border cuando un merchant opere en ambas regiones.
-3. **No vienes a competir por sus cuentas, vienes a sumar:** Posiciona tus alianzas (Riskified, Sumsub, Truora) como herramientas que benefician a todo el equipo comercial para acelerar cierres corporativos.
+### 🎯 La Sinergia Perfecta (Tu Rol vs. Su Rol):
+* **Su Rol (Channel Architecture & Operations):** Él construye y optimiza los rieles de pago (adquirencia local, tasas de aprobación, ruteo inteligente, negociación de costos con adquirentes).
+* **Tu Rol (Merchant Sales Hunter):** Tú llenas esos rieles con volumen masivo de comerciantes de alto ticket ($69.4M TPV YTD, $2.39M ticket promedio).
+* **El Mensaje Clave:** Tú no vienes a chocar con su trabajo de canales; vienes a ser su mejor aliado trayendo comerciantes técnicamente listos y filtrados por riesgo que **no tiren sus tasas de aprobación ni generen incidentes operacionales**.
 
-### 💬 Frases Clave para Sintonizar con el BDM:
-* *"Como BDM entiendes perfecto el dolor de tener un deal enterprise cerrado comercialmente pero atorado 3 semanas en el comité de Riesgos por el KYC. Por eso armé relaciones con partners como Sumsub y Truora para acortar ese ciclo."*
-* *"Sé que Brasil se maneja de forma aislada por el tema regulatorio de PIX y su propio equipo. Mi enfoque es dominar Hispanoamérica —empezando por el padrón de AIEJA en México y Fecoljuegos en Colombia— y servir de puente si un cliente hispano necesita liquidez cross-border hacia Brasil."*
+### 💬 Frases Clave en su Mismo Lenguaje Técnico-Operativo:
+1. **Sinergia Canal-Merchant:** *"Tú estás optimizando la infraestructura, el ruteo redundante y las tasas de aprobación de Starpago con bancos y adquirentes locales. Mi trabajo es traer merchants de alto volumen que aprovechen ese ruteo y maximicen el margen por transacción."*
+2. **Control Operativo & SLAs:** *"Con tu experiencia en LiveOps y SLA compliance, entiendes que un cliente de iGaming o Crypto no perdona 5 minutos de latencia o caídas en la tasa de aprobación durante un pico de apuestas. Mis integraciones API previas (Odoo, Profitroom) se hicieron con el área de operaciones para garantizar cero fricción de integración."*
+3. **Protección del Riel Adquirente:** *"Traigo cuentas grandes ($2.39M ticket neto), pero con un filtrado previo de KYC y anti-fraude (Sumsub, Riskified, Truora) para asegurar que el volumen que entra no degrade la reputación de los canales que tú negocias con los bancos."*
