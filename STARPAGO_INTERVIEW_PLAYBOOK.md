@@ -90,12 +90,12 @@
 * "Mi objetivo es escalar el volumen usando exactamente la misma infraestructura subyacente (Payouts, APMs locales, Liquidación FX) para polinizar clientes entre verticales sin añadir peso operativo."
 
 **[ACTION - El plan medible a 90 y 180 días]**
-* **Día 1 a 90 (Land - Las Balas Listas):** "No vengo a ver dónde están los clientes, ya los tengo mapeados. Mi enfoque 100% agresivo es traer volumen puro de iGaming (Tier 1). ¿De dónde saco los leads? 1) Del padrón de miembros de **AIEJA** (México) y **Fecoljuegos** (Colombia). 2) De target accounts de Tier 1 ya identificadas: **Winner, Brazino777, Betway** — operadores con presencia LATAM que demandan payouts locales estables. Voy directo a ellos para estabilizar el flujo de caja procesando con SPEI/PSE/PIX."
-* **Día 90 a 180 (Expand):** "Una vez estabilizado, uso el caso de éxito de payouts de iGaming para venderle a las **Ligas de E-Sports (LVP, KRÜ, Infinity)**. Les ofrezco cobrar en efectivo (OXXO/Efecty) a sus fans no bancarizados y liquidar los premios transfronterizos a sus jugadores con la misma tubería que ya armamos para los casinos."
+* **Día 1 a 90 (Land - Metodología de Mapeo y Prospección Activa):** "Mi enfoque el Día 1 no es sentarme a esperar que caigan leads, sino activar inmediatamente las herramientas de prospección y mapeo del ecosistema. ¿Cómo estructuro el pipeline? 1) Identificando tomadores de decisión (C-level y Head of Payments) directamente en las redes asociativas clave: **AIEJA** en México, **IBJR/ANJL** en Brasil, **Fecoljuegos** en Colombia y **APADELA** en Perú. 2) Mapeando activamente cuentas target prioritarias del segmento iGaming (como Winner, Brazino777 o Betway) con presencia local para atacar sus dolores de latencia y rechazos con SPEI/PIX/PSE. Vengo a construir la cartera desde el día 1 con proactividad."
+* **Día 90 a 180 (Expand):** "Una vez estructurado el pipeline de iGaming, uso el caso de éxito de payouts estables para expandirnos a las **Ligas de E-Sports (LVP, KRÜ, Infinity)** y estudios del padrón de **AMEXVID**. Les ofrezco cobrar en efectivo (OXXO/Efecty) a sus fans no bancarizados y liquidar los premios transfronterizos a sus jugadores con la misma tubería que ya estructuramos para los casinos."
 * **Auditoría Legal:** "Todo esto operando con pipelines de KYC/AML completamente aislados desde el día 1, para proteger las cuentas bancarias de Starpago del riesgo regulatorio cruzado (De-risking)."
 
 **[RESULT - El Impacto]**
-* "El resultado es que Starpago baja su Costo de Adquisición B2B radicalmente, porque le estamos vendiendo la misma infraestructura tecnológica a tres océanos diferentes."
+* "El resultado es que Starpago baja su Costo de Adquisición B2B radicalmente, porque le estamos vendiendo la misma infraestructura tecnológica a tres océanos diferentes aprovechando mi capacidad de prospección sistemática."
 
 ---
 
@@ -108,7 +108,7 @@
 **Tu Respuesta Blindada (El Dictamen del Chairman):**
 *   **Neutraliza el prejuicio técnico:** *"Es cierto que en Clip vendía a retail, pero el cierre de alianzas API con Odoo y Profitroom demuestra que entiendo perfectamente las ventas consultivas B2B de integración de software."*
 *   **Transfiere el valor de High-Risk y Cross-Border:** *"Administrar The Yacht Experiences (14.5M) en Fiserv exige la misma mitigación de fraude y chargebacks que un casino europeo. Además, acabo de diseñar la estrategia de entrada Cross-Border y Anti-Fraude para un adquirente mexicano expandiéndose a Perú, Colombia y Argentina. Entiendo perfectamente la fricción regulatoria regional y cómo mitigarlo con el equipo de Riesgos y Compliance."*
-*   **El Gancho de Cierre (Velocidad):** *"El ciclo de ventas corporativo de iGaming es de 6 a 9 meses. Por eso mi plan de 90 días no depende de tocar puertas frías en Europa, sino de atacar directamente las carteras de AIEJA, IBJR, y redes como Affpapa donde los operadores locales ya están desesperados por una solución PIX/SPEI inmediata. Traigo caja mientras sembramos las cuentas corporativas a largo plazo."*
+*   **El Gancho de Cierre (Velocidad):** *"El ciclo de ventas corporativo de iGaming es de 6 a 9 meses. Por eso mi enfoque a 90 días es de alta proactividad comercial: en lugar de tocar puertas frías sin dirección, uso mis herramientas de prospección para atacar directamente redes clave como AIEJA, IBJR/ANJL y plataformas B2B como Affpapa. Mapeo a los tomadores de decisión locales de inmediato, lo que me permite abrir negociaciones y construir una cartera activa desde el día 1, trayendo quick-wins locales mientras sembramos las cuentas corporativas globales a largo plazo."*
 
 ---
 
