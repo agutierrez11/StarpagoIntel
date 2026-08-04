@@ -152,12 +152,20 @@
 Esta sección mapea los directorios globales y regionales de afiliación e infraestructura tecnológica que operan en Latinoamérica, complementarios a AffPapa, para prospección inversa y alianzas de payouts:
 
 ### 🌐 1. Directorios & Redes de Afiliados (B2B Directory & Matching)
-*   **Gambling Affiliation:** Una de las redes de afiliación de iGaming más antiguas y consolidadas (desde 2005), con fuerte cobertura de campañas activas en México, Brasil, Colombia y Perú.
+*   **Gambling Affiliation:** Una de las redes de afiliación de iGaming más antiguas y consolidadas (desde 2005), con fuerte cobertura de más de 350 campañas activas en México, Brasil, Colombia y Perú.
     *   *Enlace web oficial:* [gambling-affiliation.com](https://www.gambling-affiliation.com/)
+*   **Afiliapub:** Red de afiliación iGaming enfocada 100% en el mercado de casinos online y casas de apuestas deportivas en Latinoamérica.
+    *   *Enlace web oficial:* [afiliapub.com](https://www.afiliapub.com/)
+*   **PIN-UP Partners:** Red de afiliados de iGaming con volumen masivo en mercados emergentes de LATAM (Brasil, México, Perú, Colombia) orientada a tráfico de conversión rápida.
+    *   *Enlace web oficial:* [pin-up.partners](https://pin-up.partners/)
 *   **Aff.studio:** Directorio global extenso con más de 1,300 programas de afiliados e iGaming operators, comparativas de comisiones (CPA/RevShare), licencias y reviews.
     *   *Enlace web oficial:* [aff.studio](https://aff.studio/)
 *   **Income Access (Paysafe Group):** Red e infraestructura tecnológica de atribución multicanal para programas de afiliados en casino, apuestas deportivas y póker a nivel global y LATAM.
     *   *Enlace web oficial:* [incomeaccess.com](https://www.incomeaccess.com/)
+*   **AskGamblers / Gambling.com Group:** Portales y directorios globales de reseñas de casinos y listas de verificación de programas de afiliados con presencia regulatoria en México y LATAM.
+    *   *Enlaces web oficiales:* [askgamblers.com](https://www.askgamblers.com/) \| [gambling.com](https://www.gambling.com/)
+*   **Oddschecker:** Plataforma agregadora de cuotas deportivas y directorio de conversión de afiliados para sportsbooks en América Latina.
+    *   *Enlace web oficial:* [oddschecker.com](https://www.oddschecker.com/)
 
 ### 🎪 2. Organizaciones de Eventos & Cumbres de Networking C-Level
 *   **SiGMA World / SiGMA Americas:** El festival y cumbre mundial de iGaming más grande de la industria, con ediciones anuales en Brasil y México.
@@ -171,4 +179,5 @@ Esta sección mapea los directorios globales y regionales de afiliación e infra
 *   **Affilka (by SOFTSWISS):** Motor de gestión de programas de afiliados con módulos avanzados para configurar comisiones RevShare, CPA e Híbridas.
 *   **Affise:** Software SaaS de atribución de rendimiento y seguimiento de FTDs utilizado por agencias de iGaming.
 *   **SocialPro & Wintown (México/LATAM):** Agencias especializadas en la conexión de operadores regulados (SEGOB en MX) con influencers y redes de afiliados locales.
+
 
