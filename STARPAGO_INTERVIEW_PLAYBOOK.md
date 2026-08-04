@@ -1,59 +1,88 @@
-# 🎯 Starpago Interview Playbook (Payment Sales Manager - LATAM/Brazil)
+## 1. Q1 — Tell Me About Yourself
 
-## 1. Walk Me Through Your Career (Q1) & Elevator Pitch (Q5)
-*Ambas preguntas se responden con la misma historia. Usa esta estructura STAR para no trabarte. Frases cortas y directas.*
+### 📌 KEY TALKING POINTS (Ideas Clave en 3 Segundos)
+*   **5 Years in Acquirers:** B2B Payments in MX (Clip & Fiserv).
+*   **100% Hunter at Clip:** $69M MXN TPV YTD (280% quota) + 20M/yr account.
+*   **Enterprise at Fiserv:** Managed 80 corporate accounts & bank alliances.
+*   **High-Risk Focus + Cancún Presence:** South America consulting + AffPapa/NEXT Retreat ready in Cancún.
 
-**[SITUATION - 5 Years in Payments]**
-* "I have 5 years of experience in the Mexican payment ecosystem."
-* "My recent role at Fiserv was a mix. I managed 80 B2C merchants and a big bank alliance."
-* "The alliance brought 90% of our volume, but I missed pure outbound hunting."
-
-**[TASK - The Hunter Role at Clip]**
-* "Before that, I spent 3.5 years at CLIP."
-* "It was a 100% hunter role. My goal was aggressive outbound acquisition."
-
-**[ACTION - Direct Hunting, APIs & Strategic Focus]**
-* "I led technical partnerships, successfully bringing API integrations with Bistrosoft, Profitroom, and Odoo to production."
-* "More importantly, my strategy was value over volume. I focused heavily on big-ticket outbound deals."
-
-**[RESULT - The Hard Numbers]**
-* "Operating exclusively in the High Potential sales team, I generated **$69,478,459.30 MXN in total TPV YTD**—more than double the Top 10 company average ($32.8M)."
-* "My average net ticket per merchant reached **$2,395,808.94 MXN**, over twice the Top 10 benchmark ($1.1M)."
-* "I achieved an average closing cycle of **27.92 days** in High Potential (vs. 40.55 days for the Top 10), converting Inbound leads in a record **15.87 days** (vs. 43.04 days for Top 10)."
-* "My channel mix combined high-velocity Inbound conversion (40.54%) with self-driven Outbound hunting (59.46%)."
-
-**[DESTINATION - Why Starpago?]**
-* "Now, I want to apply this pure hunting and API partnership experience to Starpago’s cross-border expansion in LatAm."
+### 🌟 STAR STRUCTURE
+*   **Situation:** 5 years in Mexican payment acquiring (Clip & Fiserv).
+*   **Task:** Outbound hunting for high-volume merchants and managing corporate relationships.
+*   **Action:** 
+    *   *At Clip:* Focused on big-ticket outbound deals ($2.39M avg ticket) and API integrations (Profitroom, Odoo).
+    *   *At Fiserv:* Managed 80 corporate accounts & institutional bank alliances.
+    *   *Consulting:* Mapped South American betting/casino markets (CO, PE, AR).
+*   **Result & Target:** 
+    *   Generated **$69.4M MXN TPV YTD** (>2x Top 10 avg) with 27-day closing speed at Clip.
+    *   Now transitioning from domestic acquiring to international High-Risk cross-border payments, leveraging my Cancún location for AffPapa/NEXT events in November.
 
 ---
 
-## 2. KPI Philosophy & The "Book of Business" (Manejo de Métricas)
-*Usa esto si te preguntan sobre tus KPIs, tu cartera de clientes (book of business), o cómo priorizas tu tiempo.*
+## 2. Q2 — Reason for the Change
 
-* "I don't just chase vanity KPIs or tick boxes. I chase revenue."
-* "For example, at Clip, the standard KPI was bringing in 5 new accounts per month."
-* "I consistently hit that metric, but my focus was entirely on big-ticket merchants."
-* "For instance, I closed **Jetpack Adventures**, which processed over 20 million pesos in my pipeline."
-* "I also brought in **Macropay** in retail, which scaled to 10 million pesos a month."
-* "My account count looked standard, but my revenue was diametrically higher."
+### 📌 KEY TALKING POINTS
+*   **Fiserv Context:** 90% time absorbed by 1 bank alliance (Account Management).
+*   **My ADN:** Full-cycle outbound hunting & key account acquisition.
+*   **Starpago Fit:** International high-risk cross-border environment.
+
+### 🌟 STAR STRUCTURE
+*   **Situation:** At Fiserv, one institutional bank alliance covered 90% of acquisition.
+*   **Task:** My role shifted into account management rather than pure hunting.
+*   **Action:** Decided to pivot back to full-cycle outbound sales where I bring the most value.
+*   **Result:** Starpago's international, high-risk cross-border focus is the high-velocity hunter environment where I thrive.
 
 ---
 
-## 3. Experiencia en Alto Riesgo (iGaming/Crypto) (Q2 & Q3)
-*Úsalo cuando te pregunten sobre tu experiencia con negocios de High-Risk o verticales difíciles.*
+## 3. Q5 — Book of Business & Portfolio Transition
 
-**[SITUATION - The High-Risk Experience]**
-* "While my formal portfolio included traditional e-commerce, I am highly experienced with High-Risk profiles."
-* "For example, I closed and managed **The Yacht Experiences**, a high-ticket maritime charter that processed over 14.5 million pesos."
-* "I know how to handle the fraud, chargeback, and compliance risks of these complex sectors."
-* "Additionally, I deeply understand the Cross-Border ecosystem. I recently consulted for a non-bank acquirer in Mexico, designing their commercial intelligence, anti-fraud strategy, and market entry for Peru, Argentina, and Colombia."
+### 📌 KEY TALKING POINTS
+*   **Honest Day 1 Status:** No active iGaming/Crypto clients (domestic background).
+*   **Unfair Advantage 1:** $2.39M MXN avg ticket at Clip (Key Account targeting).
+*   **Unfair Advantage 2:** Co-founder of 500-member LATAM Payments Community (warm intros).
+*   **Unfair Advantage 3:** Connections with high-risk builders (Dynerox, SulPayments) for market intelligence.
 
-**[TASK & ACTION - The Goal at Starpago]**
-* "iGaming and Crypto merchants in LatAm face similar challenges: terrible approval rates and FX settlement."
-* "My goal is to build your high-risk pipeline in Brazil and Mexico by pitching Starpago’s local acquiring, like PIX in Brazil, to solve these pain points."
+### 🌟 STAR STRUCTURE
+*   **Situation:** Transitioning from domestic acquiring to international high-risk processing.
+*   **Task:** Building a high-volume merchant pipeline from Day 1 without relying on a legacy portfolio.
+*   **Action:** Leverage 3 strategic assets:
+    1.  Targeting methodology that delivered $2.39M avg net ticket per client at Clip.
+    2.  Warm introductions via my 500-member LATAM Payments Community.
+    3.  Real-time market intelligence from contacts at high-risk builders (Dynerox, SulPayments).
+*   **Result:** High-velocity pipeline activation focused on real high-volume accounts.
 
-**[RESULT - The Proof]**
-* "Given my track record of managing 14 to 20 million peso accounts in complex sectors, I am completely confident I can replicate my success for Starpago."
+---
+
+## 4. Q6 — Direct High-Risk Experience & Learning Curve
+
+### 📌 KEY TALKING POINTS
+*   **Direct Background:** Traditional acquiring foundation + fast learning curve.
+*   **High-Risk Understanding:** Deep research on South American casinos & crypto payment flows.
+*   **Merchant Pains Mastered:** 99.9% processing stability, low rolling reserves, instant 24/7 payouts (SPEI/PIX/Stablecoins).
+
+### 🌟 STAR STRUCTURE
+*   **Situation:** Coming from traditional acquiring without direct iGaming/Crypto sales titles.
+*   **Task:** Mastering the high-risk merchant psychology and operational mechanics.
+*   **Action:** Conducted deep market mapping in LATAM and engaged with high-risk payment founders to understand operational bottlenecks.
+*   **Result:** Deep mastery of the 3 critical merchant demands: **Stability, Reserves, and Instant Payouts**.
+
+---
+
+## 5. Day-to-Day Prospecting Routine & Pipeline Velocity
+
+### 📌 KEY TALKING POINTS
+*   **3-Step Daily Routine:** Research (1h) ➔ Cold Outreach (10 target accounts) ➔ Tech Follow-up (APIs/Compliance).
+*   **Proven Closing Speed:** 15.87 days for Inbound / 27.92 days for High Potential at Clip.
+*   **Focus:** Quality & Ticket Size over vanity lead volume.
+
+### 🌟 STAR STRUCTURE
+*   **Situation:** High-volume hunting requires structured daily discipline.
+*   **Task:** Maintain a high-volume pipeline while accelerating time-to-revenue.
+*   **Action:** Execute a 3-step daily cadence:
+    1.  *Market Research:* Audit merchant cashiers and map 10 target accounts daily.
+    2.  *Outreach:* Direct C-level touchpoints targeting checkout friction.
+    3.  *Tech Execution:* Unblock onboarding with Risk and Integration teams.
+*   **Result:** Consistently achieved a **27.92-day closing cycle** for High Potential accounts and **15.87 days for Inbound** (vs. 40-43 days company benchmark).
 
 ---
 
