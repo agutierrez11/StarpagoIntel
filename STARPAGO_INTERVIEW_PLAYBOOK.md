@@ -149,9 +149,10 @@ timeline
         : Asistencia a SiGMA North America (CDMX - Septiembre)
         : Asistencia a G&M Events Argentina (Rosario - Septiembre)
     section 90-180 Días : Land & Expand
-        : Polinización a E-Sports & AffPapa Conference Cancún (Noviembre)
-        : Rieles de efectivo vía Paycash (OXXO/Efecty)
-        : Cross-border expansion Peru/Colombia/Argentina
+        : Asistencia a GAT Expo Bogotá (Colombia - 15 Octubre)
+        : Presencia en G&M Events México (CDMX - 4-5 Noviembre en Google/Oracle)
+        : Polinización a E-Sports & AffPapa Conference Cancún (23-25 Noviembre)
+        : Settlement de Comisiones de Afiliados (CPA / RevShare)
 ```
 
 ### 🎯 Fases de Ejecución
@@ -166,11 +167,15 @@ timeline
 
 3. **Fase 3: Días 60 a 90 (Presencia Presencial & Cierre en México/Argentina)**
    * **Objetivo:** Cierre de contratos y posicionamiento institucional físico.
-   * **Acción:** Asistencia y pitch directo en **SiGMA North America** (CDMX) y **G&M Events Argentina** (Rosario) en Septiembre para cerrar cuentas locales del pipeline Tier 1.
+   * **Acción:** Asistencia y pitch directo en **SiGMA North America** (CDMX - Septiembre) y **G&M Events Argentina** (Rosario - Septiembre) para cerrar cuentas locales del pipeline Tier 1.
 
-4. **Fase 4: Días 90 a 180 (Land & Expand a Nuevas Verticales)**
-   * **Objetivo:** Bajar el CAC vendiendo la misma infraestructura a otros océanos.
-   * **Acción:** Reutilizar los rieles de payouts de iGaming para venderle a **Ligas de E-Sports (LVP, KRÜ)** y cobros en efectivo con **Paycash (OXXO/Efecty)**, consolidando el cierre en la **AffPapa Conference Cancún** y **iGaming Awards LATAM** en Noviembre.
+4. **Fase 4: Días 90 a 180 (Land & Expand a Nuevas Verticales & Eventos C-Level)**
+   * **Objetivo:** Cierre de año masivo en Bogotá, CDMX y Cancún.
+   * **Acción:** 
+     * **GAT Expo Bogotá** (15 Octubre, Colombia): Showroom ejecutivo para negociaciones de adquirencia directa.
+     * **G&M Events México** (4-5 Noviembre, CDMX - Oficinas de Google/Oracle): Reunión de líderes de iGaming y tecnología.
+     * **AffPapa Conference Cancún & Awards** (23-25 Noviembre, México): Cierre de acuerdos de payouts masivos.
+     * **Pitch de Payouts de Afiliados:** Ofrecer a los operadores la infraestructura de Starpago para automatizar la liquidación de comisiones **CPA** ($50-$250 USD) y **RevShare** (15%-40% Sports / hasta 60% Casino) a sus redes de afiliados locales sin fricción bancaria ni altos costos FX.
 
 ---
 

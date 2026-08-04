@@ -10,10 +10,11 @@
 ### 🗺️ Inteligencia Comercial e Infraestructura
 
 1. **[⚙️ Starpago — Ingeniería Comercial Práctica](./STARPAGO_COMMERCIAL_ENGINEERING.md)**  
-   *Las 3 piezas de ingeniería comercial práctica faltantes:*
+   *Las 4 piezas de ingeniería comercial práctica:*
    * **Pre-Onboarding Risk Qualification Checklist:** Framework para calificar la viabilidad y compliance de merchants (licencia, chargeback ratio, UBO, volumen) antes de enviarlos a Riesgo.
    * **Flujo de Liquidación y FX por País:** Mapeo operativo de entrada de dinero, reconciliación y remesas en México (SPEI), Brasil (PIX), Colombia (PSE) y Perú (Yape/Plin).
    * **Máquina de Prospección Inversa (Checkout Audit):** Flujo diario para identificar pain points en cajeros de casinos objetivo (ej. Brazino777, BC.Game, Betsson) usando datos reales extraídos de `casino.org`.
+   * **Infraestructura de Payouts para Afiliados & Comisiones (CPA / RevShare):** Módulo de settlement masivo para redes de afiliados y calendario verificado de eventos C-Level LATAM 2026 (G&M Brasil, CGS Recife, SiGMA CDMX, G&M Argentina, GAT Bogotá, G&M México, AffPapa Cancún & Awards).
 
 2. **[📚 Directorio de Organizaciones de LATAM (Ampliado)](./STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md)**  
    Directorio verificado de reguladores oficiales y gremios/asociaciones privadas por país en las 4 verticales prioritarias de Starpago (**iGaming, Videojuegos/Esports, Fintech/Crypto y E-commerce Enterprise**) cubriendo México, Brasil, Colombia, Perú, Argentina y Chile.

@@ -1,7 +1,7 @@
 # ⚙️ Starpago — Ingeniería Comercial Práctica (3 Piezas Faltantes)
 
 > **Protocolo:** Zero Bullshit | Zero Parálisis por Análisis  
-> **Fuente de datos:** casino.org (scraping vivo Agosto 2026) + latinoscasinos.com + framework estructural de PSPs de alto riesgo  
+> **Fuente de datos:** casino.org (scraping vivo Agosto 2026) + AffPapa (Scraping Agosto 2026) + latinoscasinos.com + framework de PSPs de alto riesgo  
 > **Estado:** Ejecutable desde el Día 1
 
 ---
@@ -279,7 +279,51 @@ Estos casinos tienen pain points **identificados con datos reales de casino.org*
 
 ---
 
-## 💬 Las 3 Frases de Cierre para la Entrevista
+## 🤝 PIEZA 4: Infraestructura de Payouts para Afiliados y Modelos de Comisión
+
+> **Objetivo:** Ofrecer a los operadores la solución tecnológica para pagar comisiones a sus redes de afiliados (CPA/RevShare) de forma masiva, instantánea y con bajo FX.  
+> **Por qué es un Killer Feature para el CEO/CFO del Casino:** El pago tardío o costoso a afiliados destruye la reputación del operador y frena la adquisición de jugadores.
+
+### 💰 Desglose de Modelos de Comisión en iGaming (AffPapa Standards)
+
+1. **CPA (Cost Per Acquisition / Action):**
+   * Payout único por jugador nuevo que deposita (FTD - First Time Deposit).
+   * Rango de mercado: **$50 – $250 USD** por jugador calificado.
+   * *Pain del Operador:* Necesita pagar masivamente a cientos de afiliados cada semana en monedas locales (MXN, BRL, COP, PEN) sin arruinarse en comisiones bancarias SWIFT.
+   * *Solución Starpago:* Payouts masivos vía API directa usando SPEI/PIX/PSE local.
+
+2. **RevShare (Revenue Share):**
+   * Porcentaje recurrente sobre el NGR (Net Gaming Revenue) generado por los jugadores referidos.
+   * Rango de mercado: **15% – 40%** en Apuestas Deportivas | **hasta 60%** en Casino Online.
+   * *Pain del Operador:* Reconciliación mensual compleja y retrasos en transferencias internacionales.
+   * *Solución Starpago:* Reconciliación automatizada T+0 / T+1 con settlement directo a cuentas bancarias de afiliados en LATAM.
+
+3. **Hybrid (CPA + RevShare):**
+   * Combinación (ej. $50 CPA + 20% RevShare). Es el estándar moderno en la industria.
+
+4. **Fixed Fee / Listing Fee:**
+   * Tarifa fija mensual/anual solicitada por sitios de reseñas autorizados (ej. casino.org, AffPapa) para listado prioritario.
+
+---
+
+## 📅 CALENDARIO VERIFICADO 2026 — Eventos C-Level iGaming LATAM
+
+> **Fuente verificada:** AffPapa iGaming Events Calendar 2026 (Auditoría completa 8 páginas)
+
+| Fecha | Evento | Ubicación | Enfoque Estratégico Starpago |
+|---|---|---|---|
+| **13 Ago 2026** | **G&M Events Brazil** | São Paulo, Brasil | Negociación con operadores de apuestas (.bet.br) y prueba de PIX instantáneo. |
+| **24-25 Ago 2026** | **CGS Recife** | Recife, Brasil | Red de afiliados y proveedores B2B locales en el mercado brasileño. |
+| **1-3 Sep 2026** | **SiGMA North America** | CDMX, México | Evento insignia en México: pitch presencial a casinos Tier 1 (Winner, Brazino777). |
+| **9-10 Sep 2026** | **G&M Events Argentina** | Rosario, Argentina | Encuentro con operadores de salas y plataformas online de Argentina/Mercosur. |
+| **15 Oct 2026** | **GAT Expo Bogotá** | Bogotá, Colombia | Showroom ejecutivo de un día para negociaciones directas con permisionarios Coljuegos. |
+| **4-5 Nov 2026** | **G&M Events Mexico** | CDMX (Oficinas Google/Oracle) | Encuentro C-Level con líderes de tecnología y apuestas en México. |
+| **23-25 Nov 2026** | **AffPapa Conference Cancún** | Cancún, México | Cierre de acuerdos de payouts masivos con redes globales de afiliados y casinos. |
+| **25 Nov 2026** | **AffPapa iGaming Awards LATAM** | Cancún, México | Gala C-Level: consolidación institucional y networking de alto nivel. |
+
+---
+
+## 💬 Las 4 Frases de Cierre para la Entrevista
 
 **Pieza 1 — Pre-Calificación:**
 > *"Mi primer filtro es compliance: si no tiene licencia activa y chargeback < 1%, no entra al embudo. Protejo la tubería adquirente de Starpago desde el día 1 — no le mando merchants basura al área de Riesgo."*
@@ -289,3 +333,7 @@ Estos casinos tienen pain points **identificados con datos reales de casino.org*
 
 **Pieza 3 — Prospección Inversa:**
 > *"No hago llamadas en frío. Hago auditorías de cajero. Entro al casino, veo que su SPEI tarda 72h en liquidar y que su FX está a 4.2%, y le escribo al Head of Payments diciéndole exactamente eso con datos. La tasa de respuesta se triplica porque no le estoy vendiendo nada — le estoy mostrando su propio problema."*
+
+**Pieza 4 — Settlement de Afiliados:**
+> *"Los casinos gastan millones en comisiones CPA y RevShare. Si sus pagos a afiliados en LATAM se retrasan por lidiar con bancos locales, los afiliados mueven el tráfico a la competencia. Con la API de Payouts masivos de Starpago en SPEI y PIX, el operador liquida comisiones en minutos y se convierte en el destino favorito de los mejores afiliados de la región."*
+
