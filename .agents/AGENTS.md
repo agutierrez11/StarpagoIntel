@@ -46,6 +46,7 @@
   - **NEXT Elite Retreat: Latin America:** 24–26 Noviembre 2026 (Cancún, México).
   - **València Innovation Bridge by Synergy Nexus:** Septiembre 2026 (València, España — Ponente / Conferenciante Oficial firmado en AI & DeepTech / GTM Strategy para conectar Europa y LATAM).
   - **Tulum Innovation Fest / Synergy Nexus:** 9–12 Diciembre 2026 (Tulum, Q. Roo — Arena Ikal / Cripto & New Economy). *Contacto directo vía WhatsApp con el organizador Ron Oliver y el CEO Raúl Touza David (Synergy Nexus / Startups.st Group) para cumbres cerradas C-Level.*
+  - **Red C-Level de Identidad & Riesgo:** Contacto directo con Fernando Paulin (ex-CEO de Trully.ai / Unico México) para integración de biometría facial y prevención de fraude en LATAM.
 
 ---
 

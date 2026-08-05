@@ -42,16 +42,18 @@
 *   **Unfair Advantage 2:** Co-founder of 500-member LATAM Payments Community (warm intros).
 *   **Unfair Advantage 3:** Connections with high-risk builders (Dynerox, SulPayments) for market intelligence.
 *   **Unfair Advantage 4:** Confirmed Keynote Speaker & Partner for **Synergy Nexus 2026** (*València Innovation Bridge, Spain - Sept 2026*) with direct WhatsApp access to organizers (Ron Oliver & CEO Raúl Touza David) for European-LATAM cross-border enterprise access.
+*   **Unfair Advantage 5:** Direct C-level network with Identity & Anti-Fraud leaders in LATAM, including Fernando Paulin (ex-CEO of Trully / Unico Mexico).
 
 ### 🌟 STAR STRUCTURE
 *   **Situation:** Transitioning from domestic acquiring to international high-risk processing.
 *   **Task:** Building a high-volume merchant pipeline from Day 1 without relying on a legacy portfolio.
-*   **Action:** Leverage 4 strategic assets:
+*   **Action:** Leverage 5 strategic assets:
     1.  Targeting methodology that delivered $2.39M avg net ticket per client at Clip.
     2.  Warm introductions via my 500-member LATAM Payments Community.
     3.  Real-time market intelligence from contacts at high-risk builders (Dynerox, SulPayments).
     4.  International Speaker status & direct access to top event organizers (Ron Oliver & CEO Raúl Touza David of Synergy Nexus - València/Tulum) to connect European fintechs/merchants expanding to LATAM.
-*   **Result:** High-velocity pipeline activation focused on real high-volume accounts and C-level access.
+    5.  Direct C-level relationships in anti-fraud and identity (Fernando Paulin, ex-Trully / Unico Mexico) to solve onboarding friction.
+*   **Result:** High-velocity pipeline activation focused on real high-volume accounts, C-level access, and risk-compliant onboarding.
 
 ---
 
