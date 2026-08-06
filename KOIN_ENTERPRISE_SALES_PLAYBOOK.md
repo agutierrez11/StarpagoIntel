@@ -46,8 +46,26 @@ Para esta posición Enterprise en KOIN, mi expectativa de sueldo fijo es de $45,
 
 Quedo a la orden para agendar una llamada.
 
-Saludos,
-Antonio Gutiérrez
+```
+
+---
+
+### 📩 2.1 RESPUESTA DE SEGUIMIENTO (Antifraude Standalone vs. Integrado)
+
+```text
+Hola Amanda, claro que sí. Te lo desgloso puntualmente para el cliente:
+
+Mi experiencia ha sido principalmente vendiendo la prevención de fraude y la capa de riesgo integrada dentro del procesamiento de pagos y pasarela (en Clip y Fiserv).
+
+Sin embargo, el discurso comercial y la negociación consultiva con el cliente son exactamente los mismos, ya que al negociar con Directores de Riesgo, Prevención de Fraude y CFOs tocamos exactamente las mismas tres capas clave:
+
+1. Optimización de Tasa de Aprobación (Approval Rates): Ajustar reglas para reducir falsos positivos y evitar que el motor de riesgo bloquee transacciones legítimas, incrementando la conversión neta del comercio.
+
+2. Mitigación de Contracargos (Chargebacks) y Fraude de Identidad: Mantener el índice de contracargos por debajo del 1% mediante reglas dinámicas, scoring de comportamiento y autenticación inteligente (3DS / Biometría).
+
+3. Cumplimiento Regulatorio (KYC / AML): Automatizar la verificación de identidad y el monitoreo de prevencion de lavado de dinero sin añadir fricción innecesaria al checkout.
+
+En resumen: aunque mi vehículo principal ha sido el procesamiento de pagos, entiendo a la perfección cómo posicionar, cotizar y vender la solución de Antifraude y motor de riesgo como un módulo independiente de valor agregado para clientes Enterprise.
 ```
 
 ---
