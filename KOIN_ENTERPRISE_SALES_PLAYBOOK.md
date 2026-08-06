@@ -30,8 +30,8 @@ Sí, resido en México (Cancún, Q. Roo) con disponibilidad para trabajo 100% re
 2. Perfil Comercial (Hunter vs. Farmer):
 Dedico un 80% a prospección (Hunter) y 20% a gestión (Farmer). En mi etapa en Clip, el 59.5% de mi volumen ($41.3M MXN) fue generado mediante prospección activa Outbound.
 
-3. Experiencia y Producto:
-Tengo 5 años de experiencia en adquirencia y procesamiento de pagos en México en Clip (agregador) y Fiserv (adquirente no bancario). Conozco la operativa de medios de pago (SPEI, Tarjetas), 3D Secure, PCI compliance y normativas anti-fraude (AML, KYC).
+3. Experiencia y Producto:  
+Tengo 5 años de experiencia en adquirencia y procesamiento de pagos en México en Clip (agregador) y Fiserv (adquirente no bancario), complementado con proyectos de consultoría independiente mapeando el ecosistema de pagos y riesgo en Sudamérica (Colombia, Perú y Argentina). Conozco la operativa de medios de pago (SPEI, Tarjetas, APMs), 3D Secure, PCI compliance y normativas anti-fraude (AML, KYC).
 
 Negocio directamente con Head of Payments, Directores de Riesgo / Prevención de Fraude, CFOs y Directores de E-commerce.
 
