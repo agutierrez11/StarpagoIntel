@@ -56,4 +56,5 @@
 - `STARPAGO_COMMERCIAL_ENGINEERING.md`: 4 Piezas prácticas de ingeniería comercial.
 - `STARPAGO_LATAM_COUNTRY_STRATEGY.md`: Inteligencia estratégica por país (6 mercados).
 - `STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md`: Directorio ampliado de reguladores, gremios y redes.
+- `KOIN_ENTERPRISE_SALES_PLAYBOOK.md`: Dossier y matriz de alineación para la vacante Senior Enterprise Sales en KOIN (VONBZ).
 - `teleprompter.html`: Acordeón interactivo para pantalla secundaria.
