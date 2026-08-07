@@ -57,4 +57,5 @@
 - `STARPAGO_LATAM_COUNTRY_STRATEGY.md`: Inteligencia estratégica por país (6 mercados).
 - `STARPAGO_LATAM_ORGANIZATION_DIRECTORY.md`: Directorio ampliado de reguladores, gremios y redes.
 - `KOIN_ENTERPRISE_SALES_PLAYBOOK.md`: Dossier y matriz de alineación para la vacante Senior Enterprise Sales en KOIN (VONBZ).
+- `NUVEI_LATAM_IGAMING_BDM_PLAYBOOK.md`: Cover letter en inglés, dossier y matriz de alineación para Business Development Manager iGaming LATAM en Nuvei.
 - `teleprompter.html`: Acordeón interactivo para pantalla secundaria.
