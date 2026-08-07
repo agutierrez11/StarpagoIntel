@@ -50,6 +50,23 @@
 
 ---
 
+## 🔍 5. DIRECTORIO DE PORTALES DE INTELIGENCIA DE MERCADO & ANALÍTICA (LATAM)
+
+### 🎲 iGaming & Apuestas en LATAM
+1. **Blask & Ask Blask** (`https://blask.ai` / `blask.com`): Motor de Inteligencia Artificial para iGaming con métrica BAP (*Brand's Accumulated Power*) y tracking de 5,000+ operadores.
+2. **Yogonet Latinoamérica** (`https://www.yogonet.com/latinoamerica/`): Portal B2B #1 en español para regulaciones de casino y pagos en MX, CO, PE, AR.
+3. **Games Magazine Brasil (GMB)** (`https://gamesmagazinebrasil.com`): Inteligencia de mercado #1 para Brasil (PIX, Ley 14.790 y licencias `.bet.br`).
+4. **SBC Noticias América Latina** (`https://sbcnoticias.com`): Cobertura regulatoria en español de Coljuegos, MINCETUR, SEGOB y LOTBA.
+5. **Focus Gaming News LATAM** (`https://focusgn.com/latam/`): Reportes de entrada de operadores internacionales a LATAM.
+6. **H2 Gambling Capital** (`https://h2gc.com`): La autoridad global #1 en métricas de GGR y dimensionamiento de mercado iGaming.
+
+### 💳 Pagos & Fintech en LATAM
+1. **Americas Market Intelligence (AMI - Payments)** (`https://americasmi.com/payments/`): La firma #1 de investigación en adquirencia, e-commerce, contracargos y APMs (PIX, SPEI, PSE, Yape).
+2. **Payments & Commerce Market Intelligence (PCMI)** (`https://paymentscmi.com`): Plataforma especializada en volumen transfronterizo y tasas de rechazo de tarjetas en LATAM.
+3. **iProUP** (`https://iproup.com`): Noticias y análisis sobre Stablecoins (USDT/USDC), rieles A2A y fintech en América Latina.
+
+---
+
 ## 📌 4. FRASES Y CITAS DE AUTORIDAD PARA USAR EN ENTREVISTAS C-LEVEL
 
 1. *"In emerging markets, payments aren't just part of the product. **Payments ARE the product**."* — **Blask / TopPay Benchmark (Julio 2026)**
