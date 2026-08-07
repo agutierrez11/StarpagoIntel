@@ -47,6 +47,7 @@
   - **València Innovation Bridge by Synergy Nexus:** Septiembre 2026 (València, España — Ponente / Conferenciante Oficial firmado en AI & DeepTech / GTM Strategy para conectar Europa y LATAM).
   - **Tulum Innovation Fest / Synergy Nexus:** 9–12 Diciembre 2026 (Tulum, Q. Roo — Arena Ikal / Cripto & New Economy). *Contacto directo vía WhatsApp con el organizador Ron Oliver y el CEO Raúl Touza David (Synergy Nexus / Startups.st Group) para cumbres cerradas C-Level.*
   - **Red C-Level de Identidad & Riesgo:** Contacto directo con Fernando Paulin (ex-CEO de Trully.ai / Unico México) para integración de biometría facial y prevención de fraude en LATAM.
+  - **Benchmark iGaming LATAM (Blask/TopPay Julio 2026):** *Betano* es la marca #1 dominante regional en los 5 mercados (BR, MX, CO, PE, AR) debido a su estrategia de infraestructura de pagos locales (PIX, SPEI, PSE, Yape) y Payouts instantáneos. *"In emerging markets, payments aren't just part of the product. Payments ARE the product."*
 
 ---
 
