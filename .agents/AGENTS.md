@@ -60,6 +60,7 @@
 - `KOIN_ENTERPRISE_SALES_PLAYBOOK.md`: Dossier y matriz de alineación para la vacante Senior Enterprise Sales en KOIN (VONBZ).
 - `NUVEI_LATAM_IGAMING_BDM_PLAYBOOK.md`: Cover letter en inglés, dossier y matriz de alineación para Business Development Manager iGaming LATAM en Nuvei.
 - `REAP_MEXICO_COUNTRY_MANAGER_PLAYBOOK.md`: Cover letter ejecutiva en inglés, dossier GTM y matriz para Country Manager México en REAP (Stablecoin & Cross-Border Fintech).
+- `KASHIO_MEXICO_BDM_PLAYBOOK.md`: Carta de presentación en español, dossier y matriz para Business Development Manager Expansión México en KASHIO (Payins, Payouts & Cobranza B2B SaaS).
 - `REMOFIRST_SDR_PLAYBOOK.md`: Cover letter en inglés y dossier de postulación para SDR Outbound en RemoFirst (HR-Tech / EOR).
 - `DATA_DURA_PAGOS_IGAMING_LATAM.md`: Colección de métricas auditadas, GGR por país (BR $5B, MX $970M, CO $800M, PE $700M), tasas de rechazo (40-50% cross-border) y penetración de APMs (AMI / Bancos Centrales 2026).
 - `teleprompter.html`: Acordeón interactivo para pantalla secundaria.
