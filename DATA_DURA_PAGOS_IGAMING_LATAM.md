@@ -87,6 +87,14 @@
     * 🇨🇱 **Chile:** Billeteras locales dominantes como **MACH** y **Webpay**.
   * **La Ventaja Competitiva:** Los operadores que escalan a 4-5 países se ven obligados a gestionar 4-5 infraestructuras aisladas y fondos de liquidez separados. Quien domine las **cascadas de pago multijurisdiccionales y el Smart Routing** elimina esta fricción operativa y captura el mercado.
 
+* **Reforma Regulatoria Histórica de Curaçao (CGA — Julio 2026 - 2027):**
+  * **Fin de los Casinos Abandonados (Wind-down Rules):** Responsabilidad penal personal del Managing Director; bloqueo inmediato de nuevos depósitos en revocación; congelamiento de 6 semanas operando exclusivamente como caja de Payouts para jugadores; prohibición de liquidación societaria hasta saldar el 100% de deudas; cooperación con Interpol.
+  * **Regulación Cripto Estricta (Deadline Junio 2027):**
+    1. **Monitoreo Obligatorio On-Chain:** Integración obligatoria de herramientas de analítica blockchain (Chainalysis, Crystal, Elliptic) para screening de billeteras.
+    2. **Purga de Tokens:** Luz verde exclusiva a **Stablecoins respaldadas por Fiat (USDT/USDC)**; prohibición de privacy coins y tokens de origen dudoso.
+    3. **Segregación de Wallets:** Separación estricta entre fondos de jugadores, capital operativo y tesorería corporativa (prohibida la mezcla con wallets personales de socios/UBOs).
+  * **Impacto en PSPs de LATAM:** El 70%+ de los operadores offshore que aceptan jugadores en México, Argentina y Chile operan con licencia de Curaçao. Esta reforma obliga a los operadores a abandonar pasarelas piratas y migrar hacia procesadores de pago institucionales con cumplimiento AML/KYC estricto (como Starpago y Nuvei).
+
 ---
 
 ## 📌 4. FRASES Y CITAS DE AUTORIDAD PARA USAR EN ENTREVISTAS C-LEVEL
