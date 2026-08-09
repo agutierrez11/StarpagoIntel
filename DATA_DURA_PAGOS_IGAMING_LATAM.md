@@ -77,6 +77,16 @@
   * **Alcance:** Digitalización de pagos de colegiaturas en el sector educativo mexicano mediante pagos recurrentes, meses sin intereses y transferencias SPEI automatizadas con prevención de contracargos y reportes detallados.
   * **Tesis Comprobada:** Valida la tesis de automatización de cobranza B2B (clave para **Kashio** y adquirencia corporativa), demostrando que la educación privada en México es uno de los nichos de mayor volumen y recurrencia para pagos digitales y SPEI.
 
+* **Tesis de Fragmentación Financiera Regional (BNL Data 2026):**
+  * **El Problema:** Cada país en LATAM opera en un silo financiero desconectado:
+    * 🇧🇷 **Brasil:** Dominancia absoluta de **PIX** (prohibición de tarjetas de crédito y boletos en apuestas).
+    * 🇲🇽 **México:** Riel primario **SPEI Dinámico**.
+    * 🇨🇴 **Colombia:** Transición al nuevo sistema nacional de pagos inmediatos **Bre-B** (junto a PSE).
+    * 🇵🇪 **Perú:** Adopción móvil masiva vía **Yape** y **Plin**.
+    * 🇦🇷 **Argentina:** Transferencias A2A instantáneas mediante **CVU / CBU**.
+    * 🇨🇱 **Chile:** Billeteras locales dominantes como **MACH** y **Webpay**.
+  * **La Ventaja Competitiva:** Los operadores que escalan a 4-5 países se ven obligados a gestionar 4-5 infraestructuras aisladas y fondos de liquidez separados. Quien domine las **cascadas de pago multijurisdiccionales y el Smart Routing** elimina esta fricción operativa y captura el mercado.
+
 ---
 
 ## 📌 4. FRASES Y CITAS DE AUTORIDAD PARA USAR EN ENTREVISTAS C-LEVEL

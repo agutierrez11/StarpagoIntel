@@ -28,28 +28,28 @@
 *   **Pay-Out:** PIX Instantáneo 24/7/365 (retornos por clave CPF, teléfono o email en < 10 segundos).
 
 ### ⚖️ Marco Regulatorio & Desafíos
-*   **Regulación iGaming:** SPA/MF (Secretaria de Prêmios e Apostas / Ministério da Fazenda) bajo la Ley 14.790. Licencia obligatoria y dominio `.bet.br` activo desde Enero 2025.
+*   **Regulación iGaming:** SPA/MF (Secretaria de Prêmios e Apostas / Ministério da Fazenda) bajo la Ley 14.790. Licencia obligatoria y dominio `.bet.br`. **Prohibición estricta del uso de tarjetas de crédito y boletos bancarios en apuestas**, consolidando el **monopolio operativo de PIX**.
 *   **Impuestos & FX:** Declaración de IOF (Imposto sobre Operações Financeiras) y cumplimiento con normativas BCB para envío de remesas transfronterizas.
 *   **Pain Point del Operador:** PSPs tradicionales como Pay4Fun o Zimpler tardan horas o días en liquidar retiros (cashouts), generando frustración en jugadores acostumbrados a la inmediatez de PIX.
 
 ### 🎯 Táctica de Venta Starpago (Pitch)
-> *"En Brasil regulado, la velocidad de PIX define a los ganadores. Starpago ofrece procesamiento PIX nativo en milisegundos tanto para Pay-In como para Pay-Out automatizado 24/7. Liquidamos en BRL o convertimos transfronterizamente a Stablecoins (USDT) / USD sin que el operador sufra fricción tributaria."*
+> *"En Brasil regulado, la velocidad de PIX define a los ganadores. Con la prohibición de tarjetas de crédito y boletos, PIX es el único rey. Starpago ofrece procesamiento PIX nativo en milisegundos tanto para Pay-In como para Pay-Out automatizado 24/7. Liquidamos en BRL o convertimos transfronterizamente a Stablecoins (USDT) / USD sin que el operador sufra fricción tributaria."*
 
 ---
 
-## 🇨🇴 Colombia — El Mercado Regulado Maduro de los APMs
+## 🇨🇴 Colombia — El Mercado Regulado Maduro & Transición a Bre-B
 
 ### 💳 Rieles de Pago & Métodos Locales
-*   **Pay-In:** PSE (Pagos Seguros en Línea / ACH Colombia), Efecty, Baloto, SuRed (redes de efectivo masivas), Nequi, Daviplata, Tarjetas locales.
-*   **Pay-Out:** Transferencias bancarias ACH T+0 / T+1 y dispersiones a billeteras digitales (Nequi/Daviplata).
+*   **Pay-In:** **Bre-B** (Nuevo sistema nacional de pagos inmediatos interbancarios del Banco de la República), PSE (Pagos Seguros en Línea / ACH Colombia), Efecty, Baloto, SuRed (redes de efectivo masivas), Nequi, Daviplata, Tarjetas locales.
+*   **Pay-Out:** Dispersiones inmediatas vía **Bre-B**, transferencias ACH T+0 y Payouts a billeteras digitales (Nequi/Daviplata).
 
 ### ⚖️ Marco Regulatorio & Desafíos
 *   **Regulación iGaming:** Coljuegos (monopolio estatal maduro con licencias C-Level activas).
 *   **Control Cambiario:** Banco de la República (Resolución BanRep 1/2018 para registro de inversión extranjera y remesas de divisas).
-*   **Pain Point del Operador:** PSE requiere 3+ pasos de autenticación (fricción bancaria alta); usuarios en estratos 1-3 dependen 100% de efectivo (Efecty/Baloto) sin acceso a tarjetas.
+*   **Pain Point del Operador:** PSE tradicional requiere 3+ pasos de autenticación (fricción bancaria alta); la transición hacia **Bre-B** exige que los operadores adopten interoperabilidad inmediata para no perder tráfico frente a las billeteras locales.
 
 ### 🎯 Táctica de Venta Starpago (Pitch)
-> *"Colombia requiere un mix perfecto entre lo digital (PSE) y lo físico (Efecty). Starpago simplifica el cajero unificando todos los APMs colombianos en un solo widget API y acelera los Payouts a cuentas bancarias locales y billeteras Nequi/Daviplata."*
+> *"Colombia está viviendo su salto a los pagos inmediatos con Bre-B. Starpago simplifica el cajero unificando la nueva infraestructura de Bre-B, PSE tradicional y redes de efectivo en una sola integración API, acelerando los Payouts en tiempo real."*
 
 ---
 
