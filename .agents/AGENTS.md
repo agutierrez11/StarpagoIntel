@@ -64,3 +64,8 @@
 - `REMOFIRST_SDR_PLAYBOOK.md`: Cover letter en inglés y dossier de postulación para SDR Outbound en RemoFirst (HR-Tech / EOR).
 - `DATA_DURA_PAGOS_IGAMING_LATAM.md`: Colección de métricas auditadas, GGR por país (BR $5B, MX $970M, CO $800M, PE $700M), tasas de rechazo (40-50% cross-border) y penetración de APMs (AMI / Bancos Centrales 2026).
 - `teleprompter.html`: Acordeón interactivo para pantalla secundaria.
+
+---
+
+## 📌 6. BACKLOG / NEXT STEPS (SOLO CUANDO SE REQUIERA)
+- [ ] **Script de Monitoreo RSS/Sitemaps para Portales LATAM:** Crear script automatizado para rastrear novedades en BNL Data, Yogonet, Latam Fintech Hub, GMB y SBC Noticias (en pausa para ahorrar energía; activar solo si una empresa lo solicita expresamente).
