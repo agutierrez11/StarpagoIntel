@@ -67,6 +67,14 @@
 
 ---
 
+## 🤝 6. CASOS DE ESTUDIO RECIENTES & ALIANZAS ESTRATÉGICAS (2026)
+
+* **Alianza ACI Worldwide + dLocal (Agosto 2026):**
+  * **Alcance:** Integración en API única para permitir a comercios globales acceder a los métodos de pago locales clave en Brasil y México (Pix, PicPay, Mercado Pago, NuPay, OXXO y SPEI), con fase 2 en Argentina, Chile, Colombia y Perú.
+  * **Tesis Comprobada:** Valida que incluso los gigantes globales de tecnología de pagos (ACI Worldwide) dependen de orquestación e infraestructura local para eliminar la fricción de tarjetas y habilitar rieles Account-to-Account (A2A) en LATAM.
+
+---
+
 ## 📌 4. FRASES Y CITAS DE AUTORIDAD PARA USAR EN ENTREVISTAS C-LEVEL
 
 1. *"In emerging markets, payments aren't just part of the product. **Payments ARE the product**."* — **Blask / TopPay Benchmark (Julio 2026)**
