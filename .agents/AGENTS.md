@@ -67,5 +67,12 @@
 
 ---
 
-## 📌 6. BACKLOG / NEXT STEPS (SOLO CUANDO SE REQUIERA)
+## 🎨 6. REGLA PERMANENTE DE PRESENTACIONES EJECUTIVAS (ZERO PPT PLANO)
+- **PROHIBIDO generar presentaciones en texto plano o diapositivas simuladas en markdown.**
+- **SIEMPRE construir aplicaciones/plataformas interactivas en un solo archivo `.html`** listas para abrir en el navegador.
+- **Estándar visual:** Dark Mode de alta gama, tipografías Google Fonts (Outfit y JetBrains Mono), navegación por pestañas interactivas, componentes dinámicos y **calculadoras / simuladores de ROI en vivo**.
+
+---
+
+## 📌 7. BACKLOG / NEXT STEPS (SOLO CUANDO SE REQUIERA)
 - [ ] **Script de Monitoreo RSS/Sitemaps para Portales LATAM:** Crear script automatizado para rastrear novedades en BNL Data, Yogonet, Latam Fintech Hub, GMB y SBC Noticias (en pausa para ahorrar energía; activar solo si una empresa lo solicita expresamente).
