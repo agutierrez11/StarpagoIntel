@@ -73,6 +73,10 @@
   * **Alcance:** Integración en API única para permitir a comercios globales acceder a los métodos de pago locales clave en Brasil y México (Pix, PicPay, Mercado Pago, NuPay, OXXO y SPEI), con fase 2 en Argentina, Chile, Colombia y Perú.
   * **Tesis Comprobada:** Valida que incluso los gigantes globales de tecnología de pagos (ACI Worldwide) dependen de orquestación e infraestructura local para eliminar la fricción de tarjetas y habilitar rieles Account-to-Account (A2A) en LATAM.
 
+* **Alianza Unlimit + Mattilda (EdTech / Recaudo Educación México - Agosto 2026):**
+  * **Alcance:** Digitalización de pagos de colegiaturas en el sector educativo mexicano mediante pagos recurrentes, meses sin intereses y transferencias SPEI automatizadas con prevención de contracargos y reportes detallados.
+  * **Tesis Comprobada:** Valida la tesis de automatización de cobranza B2B (clave para **Kashio** y adquirencia corporativa), demostrando que la educación privada en México es uno de los nichos de mayor volumen y recurrencia para pagos digitales y SPEI.
+
 ---
 
 ## 📌 4. FRASES Y CITAS DE AUTORIDAD PARA USAR EN ENTREVISTAS C-LEVEL
